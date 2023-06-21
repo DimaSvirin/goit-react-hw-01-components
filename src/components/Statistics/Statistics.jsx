@@ -1,8 +1,5 @@
-// import css from './Statistics.module.css';
 import { StatisticsWrap, Title, StatList, StatItem, Label, Percentage } from "./Statistics.styled";
-
 import PropTypes from 'prop-types';
-
 
 export const Statistics = ({ title, stats }) => {
     return (

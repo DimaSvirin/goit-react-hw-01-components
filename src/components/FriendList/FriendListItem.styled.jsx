@@ -30,5 +30,3 @@ export const Name = styled.p`
     font-weight: 500;
     color: #232323;
 `
-
-// {isOnline ? 'green' : 'red'}

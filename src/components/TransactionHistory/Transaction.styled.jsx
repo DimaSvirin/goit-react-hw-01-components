@@ -8,7 +8,7 @@ export const Line = styled.tr`
         background-color: #f3f3f3;
         }
     :last-of-type {
-        border-bottom: 2px solid #009879;
+        border-bottom: 1px solid #009879;
         }
     td {
         padding: 5px;

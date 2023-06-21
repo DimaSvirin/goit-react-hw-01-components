@@ -1,4 +1,3 @@
-// import css from './Profile.module.css';
 import { ProfileWrap, Avatar, UserName, Tag, Location, Stats, Label, Quantity } from './Profile.styled.jsx';
 import PropTypes from 'prop-types';
 

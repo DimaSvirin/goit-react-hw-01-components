@@ -6,7 +6,7 @@ export const FriendListItem = ({ avatar, name, isOnline }) => {
     return (
         <FriendCard>
             <Status color={isOnline ? "green" : "red"}></Status>
-            <Avatar  src={avatar} alt="User avatar" width="48" />
+            <Avatar src={avatar} alt="User avatar" width="48" />
             <Name>{name}</Name>
         </FriendCard>
     )
